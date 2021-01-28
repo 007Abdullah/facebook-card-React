@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/facebook-card-React/static/css/main.dde30431.chunk.css",
-    "main.js": "/facebook-card-React/static/js/main.faf6cdfc.chunk.js",
-    "main.js.map": "/facebook-card-React/static/js/main.faf6cdfc.chunk.js.map",
+    "main.js": "/facebook-card-React/static/js/main.f935229f.chunk.js",
+    "main.js.map": "/facebook-card-React/static/js/main.f935229f.chunk.js.map",
     "runtime-main.js": "/facebook-card-React/static/js/runtime-main.a1d71ddc.js",
     "runtime-main.js.map": "/facebook-card-React/static/js/runtime-main.a1d71ddc.js.map",
     "static/js/2.7b253367.chunk.js": "/facebook-card-React/static/js/2.7b253367.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a1d71ddc.js",
     "static/js/2.7b253367.chunk.js",
     "static/css/main.dde30431.chunk.css",
-    "static/js/main.faf6cdfc.chunk.js"
+    "static/js/main.f935229f.chunk.js"
   ]
 }
